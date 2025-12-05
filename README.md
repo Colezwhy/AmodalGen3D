@@ -7,6 +7,8 @@ Official implementation for paper 'AmodalGen3D: Generative Amodal 3D Object Reco
 
 Intergrating 2D amodal completion prior and 3D generative modeling ability in the latent 3D space to achieve amodal 3D objects reconstruction from sparse unposed views, under various scenarios, including single object-level, in-the-wild and in-the-scene.
 
+![What_are_we_doing](assets/demonstration.gif)
+
 ## Updates and TODOs
 - ✔️ Update: initialize the project page.
 - 🔲 TODO: The code will be released once accepted. Please stay tuned!
