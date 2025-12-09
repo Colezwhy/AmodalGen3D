@@ -1,8 +1,5 @@
 # AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views
 
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://colezwhy.github.io/amodalgen-3d/)
-[![arXiv](https://img.shields.io/badge/arXiv-2511.21945-b31b1b.svg)](https://arxiv.org/abs/2511.21945) 
-
 <div align="center">
     <a href="https://colezwhy.github.io/" target="_blank">Junwei Zhou</a>,
     <a href="https://yuwingtai.github.io/" target="_blank">Yu-Wing Tai</a>
@@ -11,6 +8,21 @@
 <div align="center">
     Dartmouth College
 </div>      
+
+>**TL;DR**: <em>AmodalGen3D intergrates 2D amodal completion and 3D generative modeling to achieve amodal 3D objects reconstruction from sparse unposed views that are even heavily occluded.</em>
+
+<p align="center">
+  <a href="https://colezwhy.github.io/amodalgen-3d/">
+    <img src="https://img.shields.io/badge/Project-Website-green">
+  </a>
+  <a href="https://arxiv.org/abs/2511.21945">
+    <img src="https://img.shields.io/badge/arXiv-2511.21945-b31b1b.svg">
+  </a>
+    <a href="#">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Colezwhy.AmodalGen3D" alt="Visitors">
+  </a>
+</p>
+
 
 Official implementation for paper 'AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views'.
 
